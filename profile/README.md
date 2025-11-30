@@ -1,1 +1,1 @@
-This is a little personal project to perform data analyses in Neuroscience space.
+This is a little personal project to explore public data in Neuroscience space.
